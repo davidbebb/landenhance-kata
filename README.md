@@ -52,7 +52,7 @@ You will require NodeJS and npm.
 
 1) Clone the repository
 ```
-git clone --depth=1 https://github.com/davidbebb/landenhance.git <project_name>
+git clone --depth=1 https://github.com/davidbebb/landenhance-kata.git <project_name>
 ```
 2) Install dependencies
 ```
